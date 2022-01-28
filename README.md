@@ -1,5 +1,5 @@
 # cracha-nlw
-A simple Virtual Tag for Brazilian Dev Event  hld by Rocketseat
+A simple Virtual Tag for Brazilian Dev Event held by Rocketseat
 
 The application consumes data from Github API to build the ID with public information from user's Github account
 
