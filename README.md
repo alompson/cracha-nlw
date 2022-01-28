@@ -1,7 +1,7 @@
 # cracha-nlw
 A simple Virtual Tag for Brazilian Dev Event held by Rocketseat
 
-The application consumes data from Github API to build the ID with public information from user's Github account
+The application consumes data from Github API to overwrite the template tag with public information from user's Github account to build a customized tag for each user
 
 My Tag: https://alompson.github.io/cracha-nlw/
 
